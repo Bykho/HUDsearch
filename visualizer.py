@@ -1,7 +1,7 @@
 from dataLoader import load_excel_files
 
 # Call the load_excel_files function with the folder path
-folder_path = "HUDsearch/excelFiles"  # Adjust the folder path as needed
+folder_path = "/Users/nicobykhovsky/Desktop/HUDsearch/excelFiles"
 combined_df = load_excel_files(folder_path)
 
 # Now you can use the combined_df DataFrame for further processing

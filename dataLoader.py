@@ -1,7 +1,3 @@
-# I'm encountering a FileNotFoundError when trying to load Excel files from a folder.
-# Although I'm sure the directory 'HUDsearch/excelFiles' exists, let's add some debugging output
-# to check its contents and ensure that the path is correct.
-
 
 import pandas as pd
 import os
